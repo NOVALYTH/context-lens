@@ -84,6 +84,12 @@ We looked at public signals over 30 days (to 2026-10-16): on the `anthropics/cla
 
 Estimates, not tokenizer counts. Single cases, not distributions. Synthetic benchmark written by its author. Lexical search only. Explicit-rule drift detection only. Tested on one OS and one Node version. A tool that reads transcripts depends on a format it does not control.
 
+## Updates (optional)
+
+Nothing in this repository needs a sign-up. If you want occasional notes on measuring Claude Code context use, and a heads-up if a paid version is ever released: https://buttondown.com/context-lens
+
+Privacy: the only thing collected is the e-mail address you enter. It is used to send those notes and that possible announcement, nothing else. Every e-mail has an unsubscribe link. The list is hosted by Buttondown, whose footer appears in the e-mails.
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
