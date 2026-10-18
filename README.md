@@ -88,7 +88,7 @@ Estimates, not tokenizer counts. Single cases, not distributions. Synthetic benc
 
 Nothing in this repository needs a sign-up. If you want occasional notes on measuring Claude Code context use, and a heads-up if a paid version is ever released: https://buttondown.com/context-lens
 
-Privacy: the only thing collected is the e-mail address you enter. It is used to send those notes and that possible announcement, nothing else. Every e-mail has an unsubscribe link. The list is hosted by Buttondown, whose footer appears in the e-mails.
+Privacy: the only thing collected is the e-mail address you enter. It is used to send those notes and that possible announcement, nothing else. Every e-mail has an unsubscribe link and a postal (PO box) address in its footer. The list is hosted by Buttondown, whose footer also appears in the e-mails.
 
 ## License
 
