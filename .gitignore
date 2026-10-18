@@ -1,0 +1,6 @@
+/progress.md
+*.db
+node_modules/
+.DS_Store
+/distribution/
+guide/*.html
